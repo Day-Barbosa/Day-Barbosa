@@ -11,7 +11,7 @@
 
 ### ⚡ Sobre mim
 
-De analisar dados brutos e indicadores de qualidade industrial a projetar arquiteturas de software robustas. Minha base sempre foi investigar problemas complexos e construir soluções exatas. Hoje, traduzo essa capacidade analítica em código limpo e escalável, combinando o ecossistema robusto do **Java** no back-end com a dinamicidade do **React** no front-end.
+De analisar dados brutos e indicadores de qualidade industrial a projetar arquiteturas de software robustas. Minha base sempre foi investigar problemas complexos e construir soluções exatas. Hoje, traduzo essa capacidade analítica em código, combinando o ecossistema robusto do **Java** no back-end com a dinamicidade do **React** no front-end.
 
 #### 🎓 Formação & Metodologias
 * **Análise e Desenvolvimento de Sistemas** – Em andamento
@@ -63,7 +63,7 @@ Projetos desenvolvidos em *squads* multifuncionais aplicando metodologias ágeis
 > **Stack:** Java · Spring Boot · JPA/Hibernate · MySQL
 * API REST projetada para o ecossistema de gerenciamento de seguros de vida.
 * Arquitetura de software estruturada rigidamente sob o padrão de camadas (**Controller, Service e Repository**), garantindo alta testabilidade e baixo acoplamento.
-* Implementação de regras de negócio isoladas estritamente na camada de **Service**, como o motor de validação automatizado para elegibilidade de apólices baseado na faixa etária do usuário.
+* Implementação de regras de negócio isoladas na camada de **Service**, como o motor de validação automatizado para elegibilidade de apólices baseado na faixa etária do usuário.
 
 ---
 
