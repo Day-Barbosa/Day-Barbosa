@@ -18,7 +18,7 @@ De analisar dados brutos e indicadores de qualidade industrial a projetar arquit
 * **Bootcamp Java Fullstack** – Generation Brasil
 * **Práticas:** Desenvolvimento de projetos em equipe utilizando metodologias ágeis Scrum e Git Flow.
 
-* 🐱 **Supervisão Felina:** Pelo **Logan** e pelo **Asu**, que adoram deitar no teclado nos momentos mais críticos. 🐱
+🐱 **Supervisão Felina:** Pelo **Logan** e pelo **Asu**, que adoram deitar no teclado nos momentos mais críticos. 🐱
 
 ---
 
