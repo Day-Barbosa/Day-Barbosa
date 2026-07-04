@@ -59,7 +59,7 @@ Projetos desenvolvidos em *squads* multifuncionais aplicando metodologias ágeis
 * Modelagem de banco de dados relacional com mapeamento de relacionamentos complexos entre entidades (Produtos, Categorias e Usuários) e controle de acesso via tokens **JWT**.
 * **Liderança & Governança:** iniciei o projeto como desenvolvedora back-end e assumi o papel de **Scrum Master** da *squad* (7 integrantes). Em um desenvolvimento de ritmo intensivo, organizei a divisão de sprints, favoreci a comunicação constante do time para garantir o alinhamento e colaborei com a PO no fluxo de *branches, pull requests* e resoluções de conflitos
 
-#### 🛡️ [VaiTranquilis](URL_DO_REPOSITORIO)
+#### 🛡️ [VaiTranquilis](https://github.com/Projeto-Integrador-G-3-J-84-Modelo/Vai-Tranquilis)
 > **Stack:** Java · Spring Boot · JPA/Hibernate · MySQL
 * API REST projetada para o ecossistema de gerenciamento de seguros de vida.
 * Arquitetura de software estruturada rigidamente sob o padrão de camadas (**Controller, Service e Repository**), garantindo alta testabilidade e baixo acoplamento.
