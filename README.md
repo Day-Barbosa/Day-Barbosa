@@ -53,17 +53,17 @@ De analisar dados brutos e indicadores de qualidade industrial a projetar arquit
 
 Projetos desenvolvidos em *squads* multifuncionais aplicando metodologias ágeis e divisão de responsabilidades.
 
-#### 🥗 [Latomata](https://github.com/Projeto-Integrador-G-3-J-84-Modelo/latomata)
-> **Stack:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · MySQL
-* API REST escalável construída para suportar uma plataforma de delivery de alimentação saudável.
-* Modelagem de banco de dados relacional com mapeamento de relacionamentos complexos entre entidades (Produtos, Categorias e Usuários) e controle de acesso via tokens **JWT**.
-* **Liderança & Governança:** iniciei o projeto como desenvolvedora back-end e assumi o papel de **Scrum Master** da *squad* (7 integrantes). Em um desenvolvimento de ritmo intensivo, organizei a divisão de sprints, favoreci a comunicação constante do time para garantir o alinhamento e colaborei com a PO no fluxo de *branches, pull requests* e resoluções de conflitos
+#### 🥗 [Latomata API](https://github.com/Projeto-Integrador-G-3-J-84-Modelo/latomata)  [Latomata WEB] (https://github.com/grupo3java84/LaTomataFront)
+* Plataforma completa para delivery de alimentação saudável, composta por uma API REST e uma aplicação web responsiva.
+* Desenvolvimento da API com autenticação via **JWT**, modelagem de banco de dados relacional e mapeamento de relacionamentos entre Produtos, Categorias e Usuários.
+* Construção da interface web em **React + TypeScript**, consumindo a API REST para autenticação, gerenciamento de produtos, categorias e experiência do usuário.
+* **Liderança & Governança:** iniciei o projeto como desenvolvedora back-end e assumi o papel de **Scrum Master** da *squad* (7 integrantes). Em um desenvolvimento de ritmo intensivo, organizei as sprints, facilitei a comunicação do time e colaborei com a Product Owner na estratégia de *branches*, *pull requests* e resolução de conflitos.
 
-#### 🛡️ [VaiTranquilis](https://github.com/Projeto-Integrador-G-3-J-84-Modelo/Vai-Tranquilis)
-> **Stack:** Java · Spring Boot · JPA/Hibernate · MySQL
-* API REST projetada para o ecossistema de gerenciamento de seguros de vida.
-* Arquitetura de software estruturada rigidamente sob o padrão de camadas (**Controller, Service e Repository**), garantindo alta testabilidade e baixo acoplamento.
-* Implementação de regras de negócio isoladas na camada de **Service**, como o motor de validação automatizado para elegibilidade de apólices baseado na faixa etária do usuário.
+#### 🛡️ [VaiTranquilis API](https://github.com/Projeto-Integrador-G-3-J-84-Modelo/Vai-Tranquilis)  [VaiTranquilis WEB] (https://github.com/Projeto-Integrador-G-3-J-84-Modelo/Front-VaiTranquilis)
+* Sistema completo para gerenciamento de seguros de vida, composto por uma API REST e uma aplicação web integrada.
+* Arquitetura back-end estruturada em camadas (**Controller, Service e Repository**), promovendo alta testabilidade e baixo acoplamento.
+* Implementação das regras de negócio na camada **Service**, incluindo validação automática da elegibilidade de apólices conforme a faixa etária do usuário.
+* Desenvolvimento da aplicação web em **React + TypeScript**, responsável pelo consumo da API e pela interface para gerenciamento de clientes, apólices e demais funcionalidades do sistema.
 
 ---
 
