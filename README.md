@@ -18,7 +18,7 @@ De analisar dados brutos e indicadores de qualidade industrial a projetar arquit
 * **Bootcamp Java Fullstack** – Generation Brasil
 * **Práticas:** Desenvolvimento de projetos em equipe utilizando metodologias ágeis Scrum e Git Flow.
 
- 🐱 **Supervisão Felina:** Pelo **Logan** e pelo **Asu**, que adoram deitar no teclado nos momentos mais críticos. 🐱
+ 🐱 **Supervisão Felina:** Pelo **Logan** e pelo **Orion**, que adoram deitar no teclado nos momentos mais críticos. 🐱
 
 ---
 
@@ -63,7 +63,7 @@ Projetos desenvolvidos em *squads* multifuncionais aplicando metodologias ágeis
 * Sistema completo para gerenciamento de seguros de vida, composto por uma API REST e uma aplicação web integrada.
 * Arquitetura back-end estruturada em camadas (**Controller, Service e Repository**), promovendo alta testabilidade e baixo acoplamento.
 * Implementação das regras de negócio na camada **Service**, incluindo validação automática da elegibilidade de apólices conforme a faixa etária do usuário.
-* Desenvolvimento da aplicação web em **React + TypeScript**, responsável pelo consumo da API e pela interface para gerenciamento de clientes, apólices e demais funcionalidades do sistema.
+* Desenvolvimento de aplicação web bem humorada em **React + TypeScript**, responsável pelo consumo da API e pela interface para gerenciamento de planos, seguros e demais funcionalidades do sistema.
 
 ---
 
