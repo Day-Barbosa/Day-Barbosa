@@ -22,7 +22,7 @@ Vim da **Engenharia de Biotecnologia** e da indústria. No estágio na **CBA**, 
 Essa base continua comigo no código: **investigar o problema antes da solução, medir e validar**. Hoje construo APIs REST com **Java e Spring Boot** e interfaces com **React e TypeScript**, sempre com testes e documentação.
 
 - 🎯 **Busco:** vaga **Júnior** (Fullstack ou Backend Java), **QA** ou **estágio** em tecnologia
-- 📍 Interior de SP · remoto ou híbrido em São Paulo (capital)
+- 📍 São Paulo – SP · remoto, híbrido ou presencial na capital
 - 🎓 **Análise e Desenvolvimento de Sistemas** (Unimar), previsão de conclusão em dez/2028
 - 🧑‍🎓 **Java Fullstack** pela Generation Brasil (Java, Spring, React, Scrum)
 
